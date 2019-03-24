@@ -1,0 +1,31 @@
+
+
+
+body,html {
+    height: 100%;
+}
+
+
+.container {
+    font-size: 30px;
+
+    font-family: 'Gochi Hand', cursive;
+
+    text-align: center;
+
+    margin: auto, 0px;
+
+    background-image: url("jungle.jpg");
+
+    height: 100%;
+
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#remainingGuesses {
+    font-size: 25px;
+    color: rgb(238, 255, 0);
+}
